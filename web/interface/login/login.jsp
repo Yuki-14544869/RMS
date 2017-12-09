@@ -28,7 +28,7 @@ taglib prefix="s" uri="/struts-tags"
 	
 <title>固定资产管理系统</title>
 <!-- 引入公共的js、css 如：jquery相关-->
-<link href="${pageContext.request.contextPath}/Static/JS/login_files/style.css" rel="stylesheet" type="text/css">
+<link href="${pageContext.request.contextPath}../../static/JS/login_files/style.css" rel="stylesheet" type="text/css">
 <script src="${pageContext.request.contextPath}/Static/JS/login_files/jquery.js" language="javascript" type="text/javascript"></script>
 <script src="${pageContext.request.contextPath}/Static/JS/login_files/public.js" language="javascript" type="text/javascript"></script>
 <script src="${pageContext.request.contextPath}/Static/JS/login_files/base.js" language="javascript" type="text/javascript"></script>
